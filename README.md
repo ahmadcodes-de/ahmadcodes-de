@@ -13,12 +13,12 @@
 
 ### 🔗 Connect with me
 <p align="center">
-  <a href="mailto:contact@ahmadalhalabi.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:info@ahmadalhalabi.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ahmadalhalabi.com"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://discord.gg/TheEagles"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.facebook.com/ahmadalhalabi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/ahmadalhalabi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/ahmadalhalabi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://discord.gg/BRMvw6CXmx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.facebook.com/ahmadcodes.de"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/ahmadcodes.de"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/ahmadcodes_de"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 </div>
@@ -109,11 +109,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ahmadalhalabi">
+  <a href="https://github.com/ahmadcodes-de">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadcodes-de&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true&locale=en" alt="GitHub Stats" height="180" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ahmadalhalabi">
+  <a href="https://github.com/ahmadcodes.de">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcodes-de&layout=compact&bg_color=000000&title_color=00BFFF&text_color=ffffff&hide_border=true" alt="Top Languages" height="180" />
   </a>
 </div>
