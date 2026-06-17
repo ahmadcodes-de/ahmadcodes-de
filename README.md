@@ -113,12 +113,17 @@
   <a href="https://github.com/ahmadcodes-de">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmadcodes-de&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true&locale=en" alt="GitHub Stats" height="180" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ahmadcodes.de">
+  
+  <a href="https://github.com/ahmadcodes-de">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadcodes-de&background=000000&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="180" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/ahmadcodes-de">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcodes-de&layout=compact&bg_color=000000&title_color=00BFFF&text_color=ffffff&hide_border=true" alt="Top Languages" height="180" />
   </a>
+  
+  <br><br>
 </div>
 
 <br>
 
-<br>
