@@ -11,6 +11,7 @@
   A passionate software developer specializing in Python automation, modern frontend architectures, and crafting digital experiences. Creator of Discord bots, graphic designer, video editor, and a competitive gaming enthusiast.
 </p>
 
+
 ### 🔗 Connect with me
 <p align="center">
   <a href="mailto:info@ahmadalhalabi.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
