@@ -11,15 +11,26 @@
   A passionate software developer specializing in Python automation, modern frontend architectures, and crafting digital experiences. Creator of Discord bots, graphic designer, video editor, and a competitive gaming enthusiast.
 </p>
 
-
 ### 🔗 Connect with me
 <p align="center">
-  <a href="mailto:info@ahmadalhalabi.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ahmadalhalabi.com"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://discord.gg/BRMvw6CXmx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.facebook.com/ahmadcodes.de"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/ahmadcodes.de"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/ahmadcodes_de"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:info@ahmadalhalabi.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
+  <a href="https://ahmadalhalabi.com">
+    <img src="https://api.iconify.design/streamline:web.svg?width=48&height=48&color=%2333BA" alt="Website" />
+  </a>
+  <a href="https://discord.gg/BRMvw6CXmx">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/ahmadcodes.de">
+    <img src="https://api.iconify.design/logos:facebook.svg?width=48&height=48" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/ahmadcodes.de">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a>
+  <a href="https://x.com/ahmadcodes_de">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X" />
+  </a>
 </p>
 
 </div>
@@ -107,23 +118,32 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Stats and Activity
 
 <div align="center">
-  <a href="https://github.com/ahmadcodes-de">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadcodes-de&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true&locale=en" alt="GitHub Stats" height="180" />
-  </a>
-  
-  <a href="https://github.com/ahmadcodes-de">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadcodes-de&background=000000&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="180" />
-  </a>
-    &nbsp;&nbsp;
-  <a href="https://github.com/ahmadcodes-de">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcodes-de&layout=compact&bg_color=000000&title_color=00BFFF&text_color=ffffff&hide_border=true" alt="Top Languages" height="180" />
-  </a>
-  
-  <br><br>
-</div>
+
+<h3>🔥 Streak Stats</h3>
+<a href="https://github.com/ahmadcodes-de">
+  <img title="🔥 Get streak stats for your profile" alt="Ahmad's streak" src="https://streak-stats.demolab.com/?user=ahmadcodes-de&background=000000&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="192px"/>
+</a>
 
 <br>
 
+<h3>💻 GitHub Profile Stats</h3>
+<a href="https://github.com/ahmadcodes-de">
+  <img alt="Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmadcodes-de&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true&locale=en" height="192px"/>
+</a>
+<a href="https://github.com/ahmadcodes-de">
+  <img alt="Ahmad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcodes-de&layout=compact&bg_color=000000&title_color=00BFFF&text_color=ffffff&hide_border=true" height="192px"/>
+</a>
+
+<br/>
+<p align="center"><i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect overall experience or skill level.</i></p>
+
+<h3>📈 Activity Graph</h3>
+
+<a href="https://github.com/ahmadcodes-de">
+  <img alt="Ahmad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ahmadcodes-de&bg_color=000000&color=00BFFF&line=00BFFF&point=ffffff&hide_border=true" />
+</a>
+
+</div>
