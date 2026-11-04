@@ -4,7 +4,7 @@
 
 <a href="https://ahmadalhalabi.com"><img src="./assets/contact/website.svg" height="40" alt="Website" /></a>
 <a href="mailto:info@ahmadalhalabi.com"><img src="./assets/contact/email.svg" height="40" alt="Email" /></a>
-<a href="https://discord.gg/BRMvw6CXmx"><img src="./assets/contact/discord.svg" height="40" alt="Discord" /></a>
+<a href="https://discord.gg/sirbot"><img src="./assets/contact/discord.svg" height="40" alt="Discord" /></a>
 <a href="https://instagram.com/ahmadcodes.de"><img src="./assets/contact/instagram.svg" height="40" alt="Instagram" /></a>
 <a href="https://www.facebook.com/ahmadcodes.de"><img src="./assets/contact/facebook.svg" height="40" alt="Facebook" /></a>
 <a href="https://x.com/ahmadcodes_de"><img src="./assets/contact/x.svg" height="40" alt="X" /></a>
