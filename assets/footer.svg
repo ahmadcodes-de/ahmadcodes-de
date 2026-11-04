@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="110" viewBox="0 0 840 110">
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00BFFF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+  <clipPath id="round"><rect width="840" height="110" rx="16"/></clipPath>
+  <style>
+    .fade{animation:fade .5s ease-out both}
+    @keyframes fade{from{opacity:0}}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.22,1,.36,1) both}
+    @keyframes grow{from{transform:scaleX(0)}}
+  </style>
+  <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#00BFFF"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#00BFFF"/></linearGradient>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="840" height="110" fill="#0F141B"/>
+  <path d="M0 70 Q 105 56 210 70 T 420 70 Q 525 84 630 70 T 840 70 Q 945 56 1050 70 T 1260 70 Q 1365 84 1470 70 T 1680 70 Q 1785 56 1890 70 T 2100 70 V 110 H 0 Z" fill="url(#w1)" opacity="0.25"><animateTransform attributeName="transform" type="translate" from="0 0" to="-840 0" dur="14s" repeatCount="indefinite"/></path><path d="M0 82 Q 105 72 210 82 T 420 82 Q 525 92 630 82 T 840 82 Q 945 72 1050 82 T 1260 82 Q 1365 92 1470 82 T 1680 82 Q 1785 72 1890 82 T 2100 82 V 110 H 0 Z" fill="url(#w1)" opacity="0.45"><animateTransform attributeName="transform" type="translate" from="0 0" to="-840 0" dur="9s" repeatCount="indefinite"/></path>
+  <text x="420" y="40" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B949E">thanks for stopping by  ·  <tspan fill="#00BFFF">ahmadalhalabi.com</tspan></text>
+</g>
+<rect x="0.5" y="0.5" width="839" height="109" rx="15.5" fill="none" stroke="#30363D"/>
+</svg>
